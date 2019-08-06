@@ -1,12 +1,18 @@
 h1 {
-  color: blue;
-  font-style: italic;
+  color: #00008b;
+  font-style: bold;
+  text-align: center;
 }
+
 p {
   font-weight: lighter;
-
 }
 
 img {
   border-style: solid;
+  border-color: #00008b;
+}
+
+a {
+  color: #00008b;
 }
