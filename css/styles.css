@@ -2,3 +2,11 @@ h1 {
   color: blue;
   font-style: italic;
 }
+p {
+  font-weight: lighter;
+
+}
+
+img {
+  border-style: solid;
+}
